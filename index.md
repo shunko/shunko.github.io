@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/shunko/shunko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+Just one simple first change.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
